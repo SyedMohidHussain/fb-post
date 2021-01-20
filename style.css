@@ -1,0 +1,72 @@
+
+
+.container
+{
+    
+    width: 400px;
+    height: 800px;
+    position: fixed;
+    top: 55%;
+    left: 50%;
+    transform: translate(-54%, -51%);
+}
+ 
+
+
+
+ .main
+{
+    padding:45px;
+    box-shadow: -6px 8px 6px -6px black;
+} 
+.commentsec{
+
+    width: 100%;
+    height: 200px;
+    background-image: url("https://admin.workforce.com/wp-content/uploads/sites/2/2014/12/wf_120314_LastWord_Comments680x300.jpg");
+    background-size: contain;
+
+}
+    .buttons{
+height: 50px;
+    width: 100%;
+}
+.logo{
+    font-family: 'Courier New', Courier, monospace;
+    
+height: 45px;
+width: 100%;
+background-image: url("https://wprdea.org/image/img_avatar.png");
+background-repeat: no-repeat;
+background-size: contain;
+    border-bottom: thin black ;
+  text-align: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.like , .comment 
+{
+
+    height: 40px;
+    width:50% ;
+    float: left;
+    
+    }
+#in1{
+    border-radius: 25px;
+    border: 2px solid blue;
+    padding: 20px; 
+    height: 15px; 
+    float: right;
+    width: 100%;
+
+
+}
+
+
+
+
+ 
+
